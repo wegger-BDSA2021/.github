@@ -9,8 +9,7 @@ The project is licensed under GPL FLOSS.
 
 ## Workflow strategy for repositories 
 
-![Git Flow strategy][GitFlow]
-[GitFlow]: https://miro.medium.com/max/2000/1*tnvRls6Dg7vFt0zGdtfu_w.png
+![Git Flow strategy](https://miro.medium.com/max/2000/1*tnvRls6Dg7vFt0zGdtfu_w.png)
 
 All repositories in the project use the Git Flow strategy for the version control workflow. Please follow the instructions below before contributing any code to any of the repositories within the Wegger organisation. 
 - Main only reflects the most current production ready state of the source code. The CD pipeline will deploy main to production upon merging with main. Only hotfix branches and the development branch may be merged into main - this can only be done via pull requests. 
