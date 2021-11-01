@@ -1,4 +1,4 @@
-# Introduction to Wegger
+# Introduction to Wegger [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=wegger-BDSA2021_webapi)
 
 The purpose of this organization is for educational purposes solely. The goal of the BDSA 2021 project is to implement a vertical slice of the SE Training project. 
 
