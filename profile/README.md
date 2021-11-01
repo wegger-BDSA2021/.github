@@ -1,4 +1,4 @@
-# Introduction to Wegger [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=wegger-BDSA2021_webapi)
+# Introduction to Wegger 
 
 The purpose of this organization is for educational purposes solely. The goal of the BDSA 2021 project is to implement a vertical slice of the SE Training project. 
 
@@ -8,6 +8,8 @@ The project is licensed under GPL FLOSS.
 
 
 ## For stakeholders 💸
+
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=wegger-BDSA2021_webapi)
 
 In order to establish transparency in the process, stakeholders can keep track of the quality of the code with static code analysis reports at [SonarCloud](https://sonarcloud.io/organizations/wegger-bdsa2021/projects). 
 #### webAPI
