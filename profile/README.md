@@ -10,7 +10,8 @@ The project is licensed under GPL FLOSS.
 ## For stakeholders 
 
 In order to establish transparency in the process, stakeholders can keep track of the quality of the code with static code analysis reports at [SonarCloud](https://sonarcloud.io/organizations/wegger-bdsa2021/projects). 
-+ [report](https://sonarcloud.io/summary/overall?id=wegger-BDSA2021_webapi) for webAPI
++ webAPI
+...[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=wegger-BDSA2021_webapi&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=wegger-BDSA2021_webapi)
 
 Additionally, stakeholders can go to the [projects overview](https://github.com/orgs/wegger-BDSA2021/projects) to get an overview of work in progress. 
 
